@@ -1,0 +1,1 @@
+# germany-masters-admission-predictor
